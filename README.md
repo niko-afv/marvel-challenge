@@ -1,4 +1,4 @@
-# marvel-app
+# marvel-challenge
 
 ## Project setup
 ```
